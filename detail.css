@@ -1,0 +1,24 @@
+body{
+    background-image: url(true.jpg);
+}
+
+h1,h2{
+ text-align: center;
+
+}
+form{
+    border:2px solid rgb(185, 155, 101);
+    border-radius:20px;
+    background-color: rgb(0,0,0,0.3);
+    width:32%;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:30px;
+    margin-left:30%;
+
+}
+label{
+display:inline-block;
+width:40px;
+
+}
